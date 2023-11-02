@@ -1,16 +1,19 @@
-### Hi there 👋
+# Ms. Longoria (she/her)
 
-<!--
-**llongoriaCS/llongoriaCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Born and raised in Houston, TX, yeehaw.
 
-Here are some ideas to get you started:
+CS is the best class, but my favorite CS class in university was a cryptography course I took.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a high school teacher at Klein Oak High School, I teach CS 1 - 3, AP CSP, and Cybersecurity.
+
+I'm an avid (and used to be pro) Tetris player, but I also play other games such as DBD, Smash, Beat Saber, Skyrim, and more!
+
+I skateboard sometimes, and I like long walks on the beach.
+
+My favorite animals are goats and cows!
+
+I'm addicted to candy and I listen to an unhealthy amount of Dance Gavin Dance.
+
+Fun fact: I've listened to one Dance Gavin Dance song on repeat for 9 months straight.
+
+Hydrate or diedrate!
