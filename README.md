@@ -17,3 +17,15 @@ I'm addicted to candy and I listen to an unhealthy amount of Dance Gavin Dance.
 Fun fact: I've listened to one Dance Gavin Dance song on repeat for 9 months straight.
 
 Hydrate or diedrate!
+
+
+### Here's some of more of my favorite things:
+  - Color: Red
+  - Integer Number: 115
+  - Ice Cream: Rocky Road the only way to go
+  - Fiction Book: Acceleration by Graham Mcnamee
+  - Non-Fiction Book: C++ Plus Data Structures 6th Ed.
+  - Video Game: Tetris
+  - Cookie: Double Chocolate Chip
+
+
