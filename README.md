@@ -12,7 +12,7 @@ Hydrate or diedrate!
 ### Here's some of more of my favorite things:
   - Color: Red
   - Interger Number: 115
-  - Ice Cream: Rocky Road the only way to go
+  - Holiday: Halloween
   - Fiction Book: Acceleration by Graham Mcnamee
   - Non-Fiction Book: C++ Plus Data Structures 6th Ed.
   - Video Game: Tetris
